@@ -33,5 +33,5 @@ HTML::forma($usuario,'Login',$campos,$propiedad);
 
 $js=array('js'=>array('js/jquery-3.3.1.min.js','js/codigo.js'));
 HTML::pie($js);
-
+Test culo
 ?>
